@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Storage: energy content, charging and discharge</title>
+<desc id="desc">Electrical charging power Pc enters storage E(t) with charging losses; withdrawal Pd/ηd from storage leads to grid output Pd with discharging losses. The state equation is dE/dt = ηc Pc − Pd/ηd. Losses accompany both processes, not a final series stage.</desc>
+<rect width="960" height="600" fill="#ffffff"/>
+<text x="480" y="63" text-anchor="middle" fill="#17334c" font-family="Arial, sans-serif" font-size="30">Storage: energy content, charging and discharge</text>
+<line x1="70" y1="90" x2="890" y2="90" stroke="#9eabb3" stroke-width="2"/>
+<rect x="55" y="235" width="245" height="115" rx="15" fill="#edf4f7" stroke="#37647b" stroke-width="3"/>
+<rect x="358" y="235" width="245" height="115" rx="15" fill="#edf4f7" stroke="#37647b" stroke-width="3"/>
+<rect x="660" y="235" width="245" height="115" rx="15" fill="#edf4f7" stroke="#37647b" stroke-width="3"/>
+<path d="M300 291 L356 291 M343 279 L356 291 L343 303" stroke="#37647b" fill="none" stroke-width="4"/>
+<path d="M603 291 L659 291 M646 279 L659 291 L646 303" stroke="#37647b" fill="none" stroke-width="4"/>
+<text x="177" y="296" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#17334c">Charge power Pc</text>
+<text x="480" y="296" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#17334c">Storage E(t)</text>
+<text x="783" y="296" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#17334c">Grid output Pd</text>
+<path d="M325 304 L325 390" stroke="#b5572d" stroke-width="3" stroke-dasharray="7 5"/>
+<path d="M635 304 L635 390" stroke="#b5572d" stroke-width="3" stroke-dasharray="7 5"/>
+<rect x="228" y="390" width="195" height="56" rx="10" fill="#fff3ec" stroke="#b5572d" stroke-width="2"/>
+<rect x="538" y="390" width="195" height="56" rx="10" fill="#fff3ec" stroke="#b5572d" stroke-width="2"/>
+<text x="325" y="424" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#17334c">Charge loss</text>
+<text x="635" y="424" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#17334c">Discharge loss</text>
+<line x1="95" y1="469" x2="865" y2="469" stroke="#bdcbd3" stroke-width="2"/>
+<text x="480" y="517" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" font-weight="normal" fill="#17334c">Energy balance: dE/dt = ηc Pc − Pd/ηd</text>
+</svg>

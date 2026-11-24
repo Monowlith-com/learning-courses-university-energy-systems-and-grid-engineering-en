@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Real and reactive power flow</title>
+<desc id="desc">Source; R + jX; Consumer; Voltage drop</desc>
+<rect width="960" height="600" fill="#ffffff"/>
+<text x="480" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="33" fill="#172c43">Real and reactive power flow</text>
+<line x1="85" y1="85" x2="875" y2="85" stroke="#9eabb3" stroke-width="2" stroke-linecap="round"/>
+<rect x="60" y="240" width="230" height="120" rx="13" fill="#edf3f6" stroke="#2f596a" stroke-width="2"/>
+<text x="175" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#172c43">Source</text>
+<rect x="365" y="240" width="230" height="120" rx="13" fill="#edf3f6" stroke="#2f596a" stroke-width="2"/>
+<text x="480" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#172c43">R + jX</text>
+<rect x="670" y="240" width="230" height="120" rx="13" fill="#edf3f6" stroke="#2f596a" stroke-width="2"/>
+<text x="785" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#172c43">Consumer</text>
+<line x1="290" y1="300" x2="365" y2="300" stroke="#2f596a" stroke-width="4" stroke-linecap="round"/>
+<line x1="595" y1="300" x2="670" y2="300" stroke="#2f596a" stroke-width="4" stroke-linecap="round"/>
+<line x1="480" y1="360" x2="480" y2="440" stroke="#2f596a" stroke-width="4" stroke-linecap="round"/>
+<rect x="350" y="440" width="260" height="92" rx="13" fill="#fff1e8" stroke="#a24b32" stroke-width="2"/>
+<text x="480" y="494" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#172c43">Voltage drop</text>
+</svg>

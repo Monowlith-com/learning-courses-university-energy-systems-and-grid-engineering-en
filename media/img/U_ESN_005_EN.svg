@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Line model and transformer</title>
+<desc id="desc">Line R + jX; Transformer; Load; I²R loss</desc>
+<rect width="960" height="600" fill="#ffffff"/>
+<text x="480" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="33" fill="#172c43">Line model and transformer</text>
+<line x1="85" y1="85" x2="875" y2="85" stroke="#9eabb3" stroke-width="2" stroke-linecap="round"/>
+<rect x="80" y="250" width="200" height="115" rx="13" fill="#edf3f6" stroke="#2f596a" stroke-width="2"/>
+<text x="180" y="308" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" fill="#172c43">Line R + jX</text>
+<rect x="320" y="250" width="200" height="115" rx="13" fill="#edf3f6" stroke="#2f596a" stroke-width="2"/>
+<text x="420" y="308" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" fill="#172c43">Transformer</text>
+<rect x="550" y="250" width="200" height="115" rx="13" fill="#edf3f6" stroke="#2f596a" stroke-width="2"/>
+<text x="650" y="308" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" fill="#172c43">Load</text>
+<line x1="280" y1="310" x2="320" y2="310" stroke="#2f596a" stroke-width="4" stroke-linecap="round"/>
+<line x1="520" y1="310" x2="550" y2="310" stroke="#2f596a" stroke-width="4" stroke-linecap="round"/>
+<rect x="320" y="440" width="320" height="85" rx="13" fill="#fff1e8" stroke="#a24b32" stroke-width="2"/>
+<text x="480" y="489" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" fill="#172c43">I²R loss</text>
+<line x1="420" y1="365" x2="420" y2="440" stroke="#2f596a" stroke-width="4" stroke-linecap="round"/>
+</svg>

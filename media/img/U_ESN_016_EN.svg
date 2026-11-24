@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Measurement and state estimation</title>
+<desc id="desc">Grid state x — Sensors z — Estimate — Residual</desc>
+<rect width="960" height="600" fill="#ffffff"/>
+<text x="480" y="65" text-anchor="middle" fill="#16354a" font-family="Arial, sans-serif" font-size="30">Measurement and state estimation</text>
+<line x1="75" y1="90" x2="885" y2="90" stroke="#9eabb3" stroke-width="2"/>
+<rect x="45" y="235" rx="14" width="180" height="135" fill="#edf4f7" stroke="#37647b" stroke-width="2.5"/>
+<text x="135" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" fill="#17334c">Grid state x</text>
+<path d="M225 300 L276 300" stroke="#37647b" stroke-width="4"/>
+<path d="M264 292 L276 300 L264 308" fill="none" stroke="#37647b" stroke-width="4"/>
+<rect x="277" y="235" rx="14" width="180" height="135" fill="#edf4f7" stroke="#37647b" stroke-width="2.5"/>
+<text x="367" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" fill="#17334c">Sensors z</text>
+<path d="M457 300 L508 300" stroke="#37647b" stroke-width="4"/>
+<path d="M496 292 L508 300 L496 308" fill="none" stroke="#37647b" stroke-width="4"/>
+<rect x="509" y="235" rx="14" width="180" height="135" fill="#edf4f7" stroke="#37647b" stroke-width="2.5"/>
+<text x="599" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" fill="#17334c">Estimate</text>
+<path d="M689 300 L740 300" stroke="#37647b" stroke-width="4"/>
+<path d="M728 292 L740 300 L728 308" fill="none" stroke="#37647b" stroke-width="4"/>
+<rect x="741" y="235" rx="14" width="180" height="135" fill="#edf4f7" stroke="#37647b" stroke-width="2.5"/>
+<text x="831" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" fill="#17334c">Residual</text>
+<line x1="100" y1="445" x2="860" y2="445" stroke="#c0cbd0" stroke-width="1.5"/>
+<text x="480" y="510" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#244c5f">Observation model: z = h(x) + e</text>
+</svg>

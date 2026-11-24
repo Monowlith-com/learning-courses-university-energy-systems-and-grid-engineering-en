@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">DC load flow: angles and two-bus line</title>
+<desc id="desc">Two grid buses θ1 = 0.05 rad and θ2 = 0 rad are connected by a line of reactance x = 0.20 pu. Modelled active-power flow is 0.25 pu or 25 MW from bus 1 to bus 2. This is a linearised AC power-flow model, not a direct-current link.</desc>
+<rect width="960" height="600" fill="#ffffff"/>
+<text x="480" y="63" text-anchor="middle" fill="#17334c" font-family="Arial, sans-serif" font-size="30">DC load flow: angles and two-bus line</text>
+<line x1="70" y1="90" x2="890" y2="90" stroke="#9eabb3" stroke-width="2"/>
+<line x1="270" y1="275" x2="690" y2="275" stroke="#37647b" stroke-width="10" stroke-linecap="round"/>
+<path d="M560 263 L580 275 L560 287" fill="none" stroke="#b5572d" stroke-width="6" stroke-linecap="round"/>
+<circle cx="265" cy="275" r="73" fill="#edf4f7" stroke="#37647b" stroke-width="4"/>
+<circle cx="695" cy="275" r="73" fill="#edf4f7" stroke="#37647b" stroke-width="4"/>
+<text x="265" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="normal" fill="#17334c">Grid bus 1</text>
+<text x="695" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="normal" fill="#17334c">Grid bus 2</text>
+<text x="265" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#17334c">θ₁ = 0.05 rad</text>
+<text x="695" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#17334c">θ₂ = 0 rad</text>
+<text x="480" y="198" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="normal" fill="#17334c">Line reactance x = 0.20 pu</text>
+<text x="480" y="364" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" font-weight="bold" fill="#17334c">Active-power flow P ≈ 0.25 pu</text>
+<text x="480" y="426" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="normal" fill="#17334c">100 MVA base → 25 MW</text>
+<line x1="110" y1="470" x2="850" y2="470" stroke="#bdcbd3" stroke-width="2"/>
+<text x="480" y="522" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="normal" fill="#17334c">Linearised AC active power – not a direct-current line</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Energy flow and storage losses</title>
+<desc id="desc">Input; Storage; Output; Loss</desc>
+<rect width="960" height="600" fill="#ffffff"/>
+<text x="480" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="33" fill="#172c43">Energy flow and storage losses</text>
+<line x1="85" y1="85" x2="875" y2="85" stroke="#9eabb3" stroke-width="2" stroke-linecap="round"/>
+<rect x="50" y="210" width="230" height="130" rx="13" fill="#edf3f6" stroke="#2f596a" stroke-width="2"/>
+<text x="165.0" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#172c43">Input</text>
+<rect x="365" y="210" width="230" height="130" rx="13" fill="#edf3f6" stroke="#2f596a" stroke-width="2"/>
+<text x="480.0" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#172c43">Storage</text>
+<rect x="680" y="210" width="230" height="130" rx="13" fill="#edf3f6" stroke="#2f596a" stroke-width="2"/>
+<text x="795.0" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#172c43">Output</text>
+<line x1="280" y1="276" x2="365" y2="276" stroke="#2f596a" stroke-width="4" stroke-linecap="round"/>
+<line x1="595" y1="276" x2="680" y2="276" stroke="#2f596a" stroke-width="4" stroke-linecap="round"/>
+<line x1="485" y1="340" x2="485" y2="420" stroke="#2f596a" stroke-width="4" stroke-linecap="round"/>
+<rect x="365" y="420" width="230" height="90" rx="13" fill="#fff1e8" stroke="#a24b32" stroke-width="2"/>
+<text x="480" y="476" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#172c43">Loss</text>
+<text x="480" y="565" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" fill="#172c43">Input = Output + Storage change + Losses</text>
+</svg>
